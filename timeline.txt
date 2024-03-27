@@ -1,0 +1,24 @@
+Install WordPress & SSL
+WordPress Important Settings
+Install Theme & Plugins
+WooCommerce Settings
+GST Setup
+Shipping Setup
+Payment Gateway Integration
+Create Important Pages
+Create Coupon
+Create Simple Product
+Create Variable Products
+Create Affiliate Product
+Create Digital & Downloadable Product
+Create Menus
+Create Banners
+Write Blog Post
+Create Instagram Short code
+Design Home page
+footer setup
+Import Important Pages
+Theme Customization
+Responsive Check
+Order Testing
+test Order Processing
